@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="buy_1_tom_and_get_2_for_free">اشترِ توم واحد واحصل على اثنين مجانًا</string>
+    <string name="adopt_tom_free_fail_free_guarantee">تبنَّ توم! (مجانًا مع ضمان خالٍ من الفشل)</string>
+    <string name="search_about_tom">ابحث عن توم…</string>
+    <string name="settings">الإعدادات</string>
+    <string name="view_all">عرض الكل</string>
+    <string name="cheese_icon">رمز الجبنة</string>
+    <string name="add_to_cart">أضف إلى السلة</string>
+    <string name="notifications">الإشعارات</string>
+    <string name="profile">الملف الشخصي</string>
+    <string name="which_tom_do_you_want_to_buy">أي توم تريد شراءه؟</string>
+    <string name="jerry">جيري</string>
+    <string name="sport_tom">توم الرياضي</string>
+    <string name="sport_tom_desc">يركض مترًا واحدًا… ويتعثر في حذائه.</string>
+
+    <string name="lover_tom">توم العاشق</string>
+    <string name="lover_tom_desc">يحب من طرف واحد… ويتعرض للضرب من الطرف الآخر.</string>
+
+    <string name="bomb_tom">توم القنبلة</string>
+    <string name="bomb_tom_desc">يفجر نفسه قبل أن يتمكن من الإمساك بجيري.</string>
+
+    <string name="spy_tom">توم الجاسوس</string>
+    <string name="spy_tom_desc">يتنكر في هيئة طاولة.</string>
+
+    <string name="frozen_tom">توم المتجمد</string>
+    <string name="frozen_tom_desc">كان يطارد جيري، فتجمد من أول نظرة.</string>
+
+    <string name="sleeping_tom">توم النائم</string>
+    <string name="sleeping_tom_desc">لا يطارد أحدًا، فقط يشخر بنظام ستيريو.</string>
+    <string name="cheeses">%d جبن</string>
+    <string name="cheap_tom_section">قسم توم الرخيص</string>
+    <string name="greeting">مرحبًا، %1$s 👋🏽</string>
+
+</resources>

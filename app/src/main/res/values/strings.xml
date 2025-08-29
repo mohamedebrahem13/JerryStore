@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name" translatable="false">Tom-Task</string>
+    <string name="buy_1_tom_and_get_2_for_free">Buy 1 Tom and get 2 for free</string>
+    <string name="adopt_tom_free_fail_free_guarantee">Adopt Tom! (Free Fail-Free\nGuarantee)</string>
+    <string name="search_about_tom">Search about tom …</string>
+    <string name="settings">Settings</string>
+    <string name="view_all">View all</string>
+    <string name="cheese_icon">Cheese icon</string>
+    <string name="add_to_cart">Add to cart</string>
+    <string name="notifications">Notifications</string>
+    <string name="profile">Profile</string>
+    <string name="which_tom_do_you_want_to_buy">Which Tom do you want to buy?</string>
+    <string name="jerry">Jerry</string>
+    <string name="sport_tom">Sport Tom</string>
+    <string name="sport_tom_desc">He runs 1 meter… trips over his boot.</string>
+
+    <string name="lover_tom">Tom the lover</string>
+    <string name="lover_tom_desc">He loves one-sidedly… and is beaten by the other side.</string>
+
+    <string name="bomb_tom">Tom the bomb</string>
+    <string name="bomb_tom_desc">He blows himself up before Jerry can catch him.</string>
+
+    <string name="spy_tom">Spy Tom</string>
+    <string name="spy_tom_desc">Disguises itself as a table.</string>
+
+    <string name="frozen_tom">Frozen Tom</string>
+    <string name="frozen_tom_desc">He was chasing Jerry, he froze after the first look.</string>
+
+    <string name="sleeping_tom">Sleeping Tom</string>
+    <string name="sleeping_tom_desc">He does\'t chase anyone, he just snores in stereo.</string>
+
+    <string name="cheeses">%d cheeses</string>
+    <string name="number_only" translatable="false">%d</string>
+    <string name="cheap_tom_section">Cheap tom section</string>
+    <string name="greeting">Hi, %1$s 👋🏻</string>
+    <string name="pasta_cooked_with_a_charger_cable_and_sprinkled_with_questionable_cheese_make_sure_to_unplug_it_before_eating_or_not_you_decide" translatable="false">Pasta cooked with a charger cable and sprinkled with questionable cheese. Make sure to unplug it before eating (or not, you decide).</string>
+
+
+</resources>
