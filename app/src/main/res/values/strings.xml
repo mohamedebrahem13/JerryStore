@@ -32,8 +32,9 @@
     <string name="cheeses">%d cheeses</string>
     <string name="number_only" translatable="false">%d</string>
     <string name="cheap_tom_section">Cheap tom section</string>
-    <string name="greeting">Hi, %1$s 👋🏻</string>
+    <string name="greeting">Hi, Jerry 👋🏻</string>
     <string name="pasta_cooked_with_a_charger_cable_and_sprinkled_with_questionable_cheese_make_sure_to_unplug_it_before_eating_or_not_you_decide" translatable="false">Pasta cooked with a charger cable and sprinkled with questionable cheese. Make sure to unplug it before eating (or not, you decide).</string>
+    <string name="_5_3_cheeses">5̶ 3 cheeses</string>
 
 
 </resources>

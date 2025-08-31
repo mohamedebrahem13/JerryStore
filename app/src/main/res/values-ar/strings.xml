@@ -28,8 +28,8 @@
 
     <string name="sleeping_tom">توم النائم</string>
     <string name="sleeping_tom_desc">لا يطارد أحدًا، فقط يشخر بنظام ستيريو.</string>
-    <string name="cheeses">%d جبن</string>
     <string name="cheap_tom_section">قسم توم الرخيص</string>
-    <string name="greeting">مرحبًا، %1$s 👋🏽</string>
+    <string name="greeting">مرحبًا،جيري 👋🏽</string>
+    <string name="_5_3_cheeses">5̶ 3 cheeses</string>
 
 </resources>
