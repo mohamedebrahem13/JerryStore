@@ -160,15 +160,15 @@
                 </LinearLayout>
 
                 <ImageView
-                    android:layout_width="113dp"
+                    android:layout_width="140dp"
                     android:layout_height="150dp"
                     android:src="@drawable/group_1"
+                    android:scaleType="centerCrop"
                     app:layout_constraintBottom_toBottomOf="parent"
                     app:layout_constraintEnd_toEndOf="parent"
                     app:layout_constraintHorizontal_bias="1.0"
                     app:layout_constraintStart_toStartOf="@+id/tom_image"
-                    app:layout_constraintTop_toTopOf="parent">
-                </ImageView>
+                    app:layout_constraintTop_toTopOf="parent"></ImageView>
 
                 <ImageView
                     android:id="@+id/tom_image"
