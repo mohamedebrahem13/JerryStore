@@ -7,7 +7,6 @@ This project is part of **TheChance Android Developer Task**. It is a simple sho
 ## Features
 
 - Clean and responsive XML-based UI
-- Built entirely with Kotlin for logic and interactions
 - Displays products/items in a structured layout
 - Handles user interactions like clicks, navigation, and data display
 - Supports edge-to-edge design with proper padding for system bars
