@@ -1,6 +1,6 @@
 # Jerry Store - Android App
 
-This project is part of **TheChance Android Developer Task**. It is a simple shopping/store interface built using **Kotlin** and **XML layouts**. The app demonstrates basic UI design, navigation, and state handling in an Android application.
+This project is part of **TheChance Android Developer Task**. It is a simple shopping/store interface built using **XML layouts**. The app demonstrates basic UI design.
 
 ---
 
@@ -8,7 +8,6 @@ This project is part of **TheChance Android Developer Task**. It is a simple sho
 
 - Clean and responsive XML-based UI
 - Displays products/items in a structured layout
-- Handles user interactions like clicks, navigation, and data display
 - Supports edge-to-edge design with proper padding for system bars
 
 ---
