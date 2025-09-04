@@ -40,7 +40,8 @@
             app:layout_constraintBottom_toBottomOf="@+id/jerry_icon"
             app:layout_constraintStart_toEndOf="@+id/jerry_icon"
             app:layout_constraintTop_toTopOf="@+id/jerry_icon"
-            app:layout_constraintVertical_bias="0.037"></TextView>
+            app:layout_constraintVertical_bias="0.037">
+        </TextView>
 
         <TextView
             android:id="@+id/welcomeQA"
@@ -50,7 +51,8 @@
             android:text="@string/which_tom_do_you_want_to_buy"
             android:textColor="@color/textGray"
             app:layout_constraintStart_toStartOf="@+id/welcome"
-            app:layout_constraintTop_toBottomOf="@+id/welcome"></TextView>
+            app:layout_constraintTop_toBottomOf="@+id/welcome">
+        </TextView>
 
         <ImageView
             android:id="@+id/notification_icon"
@@ -62,7 +64,8 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="1.0"
             app:layout_constraintStart_toEndOf="@+id/welcomeQA"
-            app:layout_constraintTop_toTopOf="parent"></ImageView>
+            app:layout_constraintTop_toTopOf="parent">
+        </ImageView>
 
         <EditText
             android:id="@+id/et_first_name"
@@ -95,7 +98,8 @@
             android:layout_marginEnd="16dp"
             android:src="@drawable/button"
             app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/notification_icon"></ImageView>
+            app:layout_constraintTop_toBottomOf="@+id/notification_icon">
+        </ImageView>
 
         <androidx.constraintlayout.widget.ConstraintLayout
             android:id="@+id/offer_card_outer"
@@ -168,7 +172,8 @@
                     app:layout_constraintEnd_toEndOf="parent"
                     app:layout_constraintHorizontal_bias="1.0"
                     app:layout_constraintStart_toStartOf="@+id/tom_image"
-                    app:layout_constraintTop_toTopOf="parent"></ImageView>
+                    app:layout_constraintTop_toTopOf="parent">
+                </ImageView>
 
                 <ImageView
                     android:id="@+id/tom_image"
@@ -257,7 +262,7 @@
                     layout="@layout/tom_card_lover"
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
-                    android:layout_marginStart="8dp"
+                    android:layout_marginStart="4dp"
                     android:layout_weight="1" />
             </LinearLayout>
 
